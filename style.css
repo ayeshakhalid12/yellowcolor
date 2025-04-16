@@ -1,0 +1,55 @@
+.banner
+{
+    background-color: saddlebrown;
+    padding:60px ;
+    font-family:Merriweather;
+    text-align: center;
+    font-weight: bold;
+}
+.bb
+{
+    background-color:darkgoldenrod;
+    padding:15px ;
+    text-align: center;
+    font-weight: bold;
+}
+.bb a
+{
+    color:darkgreen; 
+    font-family: Merriweather;
+    margin-left: 16px;
+    font-size:x-large;
+    text-decoration: none;   
+}
+.lines
+{
+    background-color:darkgoldenrod;
+    padding:1px;
+}
+.lines h3
+{
+    color:black;
+    font-family:Merriweather;
+    font-weight: bold;
+    font-size:35px;
+}
+.lines p
+{
+    color:rgb(106, 27, 27);
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size:25px;
+}
+.copyright
+{
+    background-color:darkgoldenrod;
+    padding: 1px ;
+}
+.copyright p
+{
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size:25px; 
+    margin-top:1px;
+}
